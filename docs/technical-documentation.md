@@ -11,23 +11,23 @@
 
 **README:** General overview of assignment
 
-**Assets:** any image used for the portfolio
+**Assets:** Any images used for the portfolio
 
-**CSS:** style sheets
+**CSS:** Style sheets
 
 **Docs:** Includes the technical documentation and AI usage report
 
-**JS:** script files
+**JS:** Script files
 
-**Index.html:** html content
-
+**Index.html:** Html content
 
 
 ## How to test
 - Open `index.html` or run a local server
 - Resize window or use DevTools to test responsiveness
 - Try theme toggle and submit the contact form
-- Hover over buttons and components to see responses
+- Hover over buttons and navigation links to see responses
+- Scroll to observe animations on skills and projects sections
 
 
 ## Accessibility notes
