@@ -5,9 +5,10 @@ A simple, responsive personal portfolio web application to showcase projects, co
 
 
 ## Features
-- About, Projects, Contact sections
+- About, Projects, Skills, Contact sections
 - Responsive (mobile/tablet/desktop)
 - Smooth scrolling
+- Scroll animations on projects and skills
 - Dark / Light theme toggle
 - Greeting message by time of day
 - Simple contact information form (no backend)
