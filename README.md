@@ -14,7 +14,7 @@ A simple, responsive personal portfolio web application to showcase projects, co
 - Simple contact information form (no backend)
 
 ## Live Demo Link
-
+https://lenaashqar.github.io/assignment-1/
 
 ## How to set up locally
 - Clone Repository in your IDE
